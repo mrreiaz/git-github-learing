@@ -1,2 +1,2 @@
 # Geit and github learing
-some text.
+Now I edit git repo readme filee from my local PC.
