@@ -1,2 +1,3 @@
 # Geit and github learing
-Now I edit git repo readme filee from my local PC.
+
+দূর কি যে হচ্ছে কিছু ই বুজতে পারছি না। রিয়াজ ভাই কি  সব উলটা পালটা জিনিস দেখায়। 
